@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MangaScrapper.Core", "MangaScrapper.Core\MangaScrapper.Core.csproj", "{6032E725-E142-4777-AFCD-8D0C572B34FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MangaScrapper.Test", "MangaScrapper.Test\MangaScrapper.Test.csproj", "{B83F35BF-B285-4F34-9F28-D10F4B8F8CBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MangaScrapper.UI", "MangaScrapper.UI\MangaScrapper.UI.csproj", "{CDFB75BE-90A5-474F-AA92-5CF109944146}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6032E725-E142-4777-AFCD-8D0C572B34FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6032E725-E142-4777-AFCD-8D0C572B34FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6032E725-E142-4777-AFCD-8D0C572B34FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6032E725-E142-4777-AFCD-8D0C572B34FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B83F35BF-B285-4F34-9F28-D10F4B8F8CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B83F35BF-B285-4F34-9F28-D10F4B8F8CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B83F35BF-B285-4F34-9F28-D10F4B8F8CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B83F35BF-B285-4F34-9F28-D10F4B8F8CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDFB75BE-90A5-474F-AA92-5CF109944146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDFB75BE-90A5-474F-AA92-5CF109944146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDFB75BE-90A5-474F-AA92-5CF109944146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDFB75BE-90A5-474F-AA92-5CF109944146}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
